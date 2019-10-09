@@ -17,7 +17,7 @@ Simply add the following lines to your `tiapp.xml` file:
 
 ```xml
 <modules>
-	<module platform="android">org.iotashan.titouchimageview</module>
+	<module platform="android">org.iotashan.TiTouchImageView</module>
 </modules>
 ```
 
